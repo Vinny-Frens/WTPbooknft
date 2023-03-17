@@ -27,6 +27,7 @@
 
 body {
   background: var(--background-color);
+  background-image:url(https://i.pinimg.com/originals/c6/97/78/c69778d84b1f633631f38d548c252487.png);
   font-family: var(--font);
   color: var(--text-color);
 
