@@ -6,13 +6,13 @@
   --background-color: #1c1e21;
 
   /* Color of the text/words */
-  --text-color: #fff;
+  --text-color: #ffffff;
 
   /* Main color of your brand */
-  --color-primary: #f213a4;
+  --color-primary: hsl(321, 90%, 51%);
 
   /* Secondary color of your brand */
-  --color-secondary: #418dff;
+  --color-secondary: #000000;
 
   /* Which font you want to use */
   --font: "Inter", sans-serif;
@@ -28,6 +28,7 @@
 body {
   background: var(--background-color);
   background-image:url(https://live.staticflickr.com/8421/7529595228_c9d6649e93_h.jpg);
+  background-size: cover;
   font-family: var(--font);
   color: var(--text-color);
 
