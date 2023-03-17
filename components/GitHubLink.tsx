@@ -28,14 +28,6 @@ export default function ThirdwebGuideFooter() {
           right: 18,
         }}
       >
-        <img
-          src={"/github.png"}
-          width={40}
-          height={40}
-          role="button"
-          style={{ cursor: "pointer" }}
-          onClick={() => window.open(url, "_blank")}
-        />
       </div>
     </>
   );
